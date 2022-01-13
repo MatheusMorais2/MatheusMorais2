@@ -1,11 +1,11 @@
-##Why is coding so fascinating?
+## Why is coding so fascinating?
 
 <p>To me, accessibility and democracy are at the core of it all.<br>
  When I was in college, I had to go to ask a professor permission to use the lab, go to the lab, set everything up, get a few shocks to be able to measure a resistor.<br>
  Nowadays, with my knowledge of programming, I can just emulate the circuit and get all the data in a nice matrix. We can change the world, we can include people that were otherwise excluded and we can share freely.<br>
  That is the beaty of coding and that's why I'm in love with it!</p>
 
-##What are you working on?
+## What are you working on?
 
 <p>I'm on a journey to be a Full-stack web developer and am being tutored by the most amazing people at Driven Education and, to answer your question, probably working on a web page project that you can see bellow 😄</p>
 
